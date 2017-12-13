@@ -17,3 +17,7 @@ Desktop.ini
 
 # Windows shortcuts
 *.lnk
+
+# Backup files
+*.BAK
+*.BAK??
